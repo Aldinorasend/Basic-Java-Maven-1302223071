@@ -13,7 +13,7 @@ public class Counter {
 	}
 	
 	public void increment() {
-		hitungan++;
+		count++;
 	}
 	
 	public void decrement() {
